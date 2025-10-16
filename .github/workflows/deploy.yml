@@ -5,6 +5,9 @@ on:
     branches:
       - main  # 当你推送 main 分支时触发构建
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
