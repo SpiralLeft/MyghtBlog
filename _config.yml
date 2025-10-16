@@ -10,12 +10,12 @@ keywords:
 author: KM
 language: en
 timezone: ''
-url: https://spiralleft.github.io
-root: /MyghtBlog/
+
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://spiralleft.github.io
+root: /MyghtBlog/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
